@@ -1,6 +1,28 @@
-# sales
+# Project Sales Forecasting
 
-## Overview
+## Problem Statement
+
+Advanced Analytics – Candidate Data Science Presentation
+The purpose of this task is to demonstrate your ability to solve an analytical problem, conduct analysis, and explain to an audience the findings and results from your analysis.
+- [Forecasting - “Corporación Favorita Grocery Sales Forecasting”](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/overview)
+- Follow the Kaggle objective to achieve an accurate model
+From the Kaggle website, you can understand the context of the problem, get the data, and understand Kaggle’s performance metrics.
+You are required to:
+- Build a solution to the problem
+- Present your findings to a combination of Technical and Business people (Data Scientists, Business Manager) for around 30-40 minutes covering
+    - Brief Summary of the Problem
+    - The step-by-step approach to how you came to the answer (including unsuccessful/poor performing models and how you improved them)
+    - Your solution and its performance (against the Kaggle evaluation metric but also using other appropriate metrics that you deem necessary)
+    - Limitations to your approach
+    - How you could improve if given more time
+    - How you could extend the solution to production, scoring daily for longer forecast horizon
+- Answer questions on the approach and provide justification for the analytical decisions made
+- Provide the code that you wrote to answer the problem (do not leverage existing code)
+
+- You will be given around 1 week to prepare your solution. 
+- Please email your presentation slides and the code prior to the interview to aa-rectrib@Coles.com.au
+
+# Solution
 
 This is your new Kedro project, which was generated using `Kedro 0.18.2`.
 
